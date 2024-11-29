@@ -55,7 +55,7 @@ A-Z
 const art = asciiShadowText("Shadow Text");
 console.log(art);
 ```
-![SHADOW TEXT sample](./sample.jpg "shadow text")
+![SHADOW TEXT sample](./sample.JPG "shadow text")
 ---
 
 ## Notes
