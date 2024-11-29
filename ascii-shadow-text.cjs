@@ -409,4 +409,4 @@ function asciiShadowText(text) {
   return art;
 }
 
-module.exports = asciiShadowText;
+module.exports = { asciiShadowText };

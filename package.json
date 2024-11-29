@@ -1,0 +1,18 @@
+{
+  "name": "ascii-shadow-text",
+  "version": "1.0.0",
+  "description": "Generate ASCII art from text with a shadow style",
+  "main": "./ascii-shadow-text.cjs",
+  "type": "module",
+  "exports": {
+    "require": "./ascii-shadow-text.cjs",
+    "import": "./ascii-shadow-text.js"
+  },
+  "files": [
+    "ascii-shadow-text.js",
+    "ascii-shadow-text.cjs"
+  ],
+  "keywords": ["ascii", "text", "shadow", "art"],
+  "author": "Your Name",
+  "license": "MIT"
+}
