@@ -12,7 +12,17 @@
     "ascii-shadow-text.js",
     "ascii-shadow-text.cjs"
   ],
-  "keywords": ["ascii", "text", "shadow", "art"],
+  "keywords": [
+    "ascii",
+    "text",
+    "shadow",
+    "art"
+  ],
   "author": "Your Name",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ScottHenshaw86/ascii-shadow-text"
+  },
+  "homepage": "https://github.com/ScottHenshaw86/ascii-shadow-text#readme",
   "license": "MIT"
 }

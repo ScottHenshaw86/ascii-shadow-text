@@ -52,19 +52,10 @@ A-Z
 ## Example Output
 
 ```javascript
-const art = asciiShadowText("ASCII");
+const art = asciiShadowText("Shadow Text");
 console.log(art);
 ```
-
-```
-  ██████╗  ██████╗  ██████╗██╗██╗
- ██    ██║██╔════╝ ██╔════╝██║██║
- ████████║╚██████╗ ██║     ██║██║
- ██╔═══██║ ╚════██╗██║     ██║██║
- ██║   ██║ ██████╔╝╚██████╗██║██║
- ╚═╝   ╚═╝ ╚═════╝  ╚═════╝╚═╝╚═╝
-
-```
+![SHADOW TEXT sample](./sample.jpg "shadow text")
 ---
 
 ## Notes
